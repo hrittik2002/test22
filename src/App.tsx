@@ -12,7 +12,7 @@ export default function Page() {
 
   const getNoButtonText = () => {
     const phrases = [
-      "Bolona esob",
+      "Bolona esob ",
       "sotti korbe na?",
       "korbe na to?",
       "Pleasee cutie",
